@@ -1,0 +1,72 @@
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Workers Manager.exe
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Workers Manager.deps.json
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Workers Manager.runtimeconfig.json
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Workers Manager.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Workers Manager.pdb
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.csproj.AssemblyReference.cache
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\App.g.cs
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager_MarkupCompile.cache
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager_MarkupCompile.lref
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.g.resources
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.AssemblyInfoInputs.cache
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.AssemblyInfo.cs
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.csproj.CoreCompileInputs.cache
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.dll
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\refint\Workers Manager.dll
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.pdb
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.genruntimeconfig.cache
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\ref\Workers Manager.dll
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Views\MainWindow.g.cs
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Views\MainWindow.baml
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Humanizer.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.SqlServer.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Bogumił\Workers Manager\Workers Manager\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Workers Manager.csproj.CopyComplete
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Views\AddingWorkerView.g.cs
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\Views\AddingWorkerView.baml
+D:\Bogumił\Workers Manager\Workers Manager\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
